@@ -22,7 +22,7 @@ const AboutSection = () => {
         <button>Hire me</button>
       </div>
       <div className="image">
-        <img src={home1} alt="picture of Sudeep" />
+        <img src={home1} alt="coolguy" />
       </div>
     </div>
   );
