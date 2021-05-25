@@ -69,7 +69,7 @@ const Cards = styled.div`
   justify-content: space-evenly;
   flex-wrap: wrap;
   margin: 0;
-  padding: 0;
+  padding-top: 2rem;
   flex: 1;
 `;
 const Card = styled.div`
